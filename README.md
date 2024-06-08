@@ -9,7 +9,7 @@
   - Jumper Wires
 
 ## Circuit Diagram
-  ![Arduino Uno LED Dimmer]()
+  ![Arduino Uno LED Chasing](https://raw.githubusercontent.com/Projectslearner/arduino-uno-led-chaser/main/Arduino_uno_led_chasing.png)
 
 ## Steps to Build the Circuit
   - Place LEDs on the Breadboard:
