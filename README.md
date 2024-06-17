@@ -1,4 +1,4 @@
-# LED Dimmer with Arduino:
+# LED Chaser with Arduino:
  LED chaser using digital pins 2 through 11 on an Arduino Uno involves connecting LEDs to these pins and controlling them with a simple program. The project is straightforward and serves as an excellent introduction to Arduino programming and electronics.
 
 ## Components:
